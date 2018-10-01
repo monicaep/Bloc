@@ -1,11 +1,11 @@
 ## Exercises
 
 1. Practice breaking it down! Choose one of the following to explain as if the listener has never done it before: What are the steps involved in making a peanut butter and jelly sandwich?
-    1) Gather your ingredients/tools - peanut butter, jelly, 2 slices of bread, a plate, and a knife.
-    2) Using the knife, spread peanut butter on one side of one of the slices of bread. Place the bread on the plate with the peanut butter side facing up.
-    3) Spread jelly on one side of the other slice of bread.
-    4) Place the jelly slice of bread down on top of the peanut butter slice of bread with the peanut butter and jelly sides facing each other.
-    5) Enjoy!
+  1) Gather your ingredients/tools - peanut butter, jelly, 2 slices of bread, a plate, and a knife.
+  2) Using the knife, spread peanut butter on one side of one of the slices of bread. Place the bread on the plate with the peanut butter side facing up.
+  3) Spread jelly on one side of the other slice of bread.
+  4) Place the jelly slice of bread down on top of the peanut butter slice of bread with the peanut butter and jelly sides facing each other.
+  5) Enjoy!
 
 2. In our "Say Hi" example, if the `Say Hi` part of the program never runs, how would you narrow down the cause of the problem? Explain the process and use a roadmap to visualize it.
   User Name Input --> User Button Click --> Say Hi
