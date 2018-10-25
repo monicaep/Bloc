@@ -32,18 +32,15 @@
 
     T-shirt sizes:
         Pros: Everyone knows t-shirt sizes so it's pretty easy to imagine. I think this technique would be especially helpful when it is easy to imagine physical sizes like in the dog training example. It's easy to see a Chihuahua as an XS and a Great Dane as an XL. Also, because there are only 5 different values to choose from there will likely be less variation in the individual estimates of different team members and so it will be easier/faster to come to an agreement.
-
         Cons: There are only 5 values so the estimation might not be as exact as using a different technique. For example a Great Dane and a Newfoundland might both be considered XL dogs, but they might be assigned slightly different values using a different technique.
 
     Fibonacci:
         Pros: There are more value options than the t-shirt technique so more precise estimations can be made.
-
         Cons: Because there are more value options it is possible that there will be more discrepancy between individual estimates and it may take longer for the team to come to an agreement.
 
 
       Powers of 2:
         Pros: As with the Fibonacci technique, there are more value options than the t-shirt technique.      
-
         Cons: Each consecutive number is double the previous one, which means that to go up to the next number estimate you believe that the card is twice as complex as the previous. For example, let's say there is a card that is estimated at a 4 (2^2). The next card is more complex than the one that was just estimated but the next number in the sequence is 8 (2^3), which means to estimate an 8 that card would have to be twice as complex as the first one. If you don't believe it's twice as complex as the first one but definitely a bit more complex than the first one, you are kind of stuck.
 
 6. Give a real-world example of a development project, and explain the breakdown into epic(s), slices, cards, and tasks.
