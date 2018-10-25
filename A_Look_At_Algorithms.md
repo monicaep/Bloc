@@ -10,7 +10,8 @@
 
 3. Code an implementation of Bubble Sort and test it on an integer array of your choice.
 
-`function swap(array, i, j) {
+```javascript
+function swap(array, i, j) {
   var temp = array[i];
   array[i] = array[j];
   array[j] = temp;
@@ -28,4 +29,4 @@ function bubbleSort(array) {
 }
 
 let t = [5, 8, 10, 2, 4];
-console.log(bubbleSort(t));`
+console.log(bubbleSort(t));```
