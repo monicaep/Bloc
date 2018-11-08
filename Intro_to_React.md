@@ -1,0 +1,7 @@
+1. In your own words, explain React's **Virtual DOM**. What gives React its fast performance?
+
+    The virtual DOM is like a blueprint. When React initializes, it calls the `render` method to create this blueprint. Then when a user interacts with components and data changes are made, `render` is called again. React then compares this new version with the original blueprint. By locating the differences between the two, it finds what needs to be changed. This is where React's fast performance comes from. Instead of continuously updating the entire page when a change happens, React only updates the parts that were actually changed.
+
+2. In your own words, describe React's core concept of **uni-directional data flow**. Draw diagrams to illustrate. Discuss the answer with your mentor in your next session.
+
+    In two-way data binding, changes can be made to both the UI field and the model data. When a change is made to either of these, the other one changes/updates accordingly. In one-way data binding, only the model can make changes. When there is a change in the UI a message is sent to the model and then the model can make the change. Basically, uni-directional data flow is like a one-way street and two-way data binding is like a two-way street. There is only one way a car (data) can go on a one-way street. On a two-way street, cars (data) can start and end on opposite ends and move in both directions. 
